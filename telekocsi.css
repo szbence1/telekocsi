@@ -1,0 +1,82 @@
+.tartalom {
+  background-color: lightblue;
+  border: 2px solid gray;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+body {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding: 10px;
+  float: left;
+  width: 100%;
+  background-color: blue;
+  color: yellow;
+}
+
+li {
+  display: inline;
+  padding-left: 40px;
+}
+
+#auto {
+  float: right;
+}
+
+.kiemelt {
+  color: red;
+}
+
+body {
+  background-color: blue;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+.forras {
+  float: right;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+img {
+  width: 250px;
+}
+.kiemelt {
+  font-style: italic;
+}
+p {
+  text-align: justify;
+}
+
+form {
+  padding-left: 290px;
+}
+.flex {
+  display: flex;
+  gap: 69px;
+  margin-bottom: 10px;
+}
+.flex2 {
+  display: flex;
+  gap: 19px;
+  margin-bottom: 10px;
+}
+.flex3 {
+  display: flex;
+  gap: 55px;
+  margin-bottom: 10px;
+}
+.flex4 {
+  display: flex;
+  gap: 11px;
+  margin-bottom: 10px;
+}
